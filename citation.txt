@@ -1,0 +1,7 @@
+@inproceedings{REPO176,
+    author = "Ronen, Meitar and Finder, Shahaf E and Freifeld, Oren",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "9861--9870",
+    title = "{DeepDPM: Deep Clustering With an Unknown Number of Clusters}",
+    year = "2022"
+}
